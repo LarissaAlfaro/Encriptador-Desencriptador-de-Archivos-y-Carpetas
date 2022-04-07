@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="Imagen1">
+    <file>FotoJet (2) (2).jpg</file>
+  </qresource>
+  <qresource prefix="imagen2">
+    <file>que_es_el_codigo_binario_y_como_traducirlo_49398_600.jpg</file>
+  </qresource>
+  <qresource prefix="imagen3">
+    <file>Everlaw-data-encryption.jpg</file>
+  </qresource>
+</RCC>
